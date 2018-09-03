@@ -6,15 +6,15 @@ This project was made for a discography that needed to keep track of how much a 
 This is basically a project full of CRUD's, it has some ajax calls to populate some fields in some sections.
 One of the things i liked is that it have a (not so good coded, and a lot of copy paste from different sites) pagination manager for custom search.
 
-##Getting started
+## Getting started
 This guide will help you to get a working copy of the project.
 
-###Prerequisites
+### Prerequisites
 ``Server requirements to run Laravel v5.2 - https://laravel.com/docs/5.2``
 
 ``Composer - https://getcomposer.org/download/``
 
-###Installing
+### Installing
 Open a new terminal and go to the project folder, then update composer.
 
 ``composer update``
@@ -31,7 +31,7 @@ Now go and edit the .env file and update your MySQL server data. After this, in 
 
 You should have now a working copy of the project.
 
-##Notes from the author
+## Notes from the author
 - This project is in spanish.
 
 - This project was never deployed to a live server. 
